@@ -1,26 +1,26 @@
-# 📊 Sales Analysis (Excel)
+#  Sales Analysis (Excel)
 
 ## 📌 Project Overview
 Анализ данных в Excel для выявления ключевых метрик и закономерностей.
 
-## 🛠 Tools
+##  Tools
 - Microsoft Excel
 - Pivot Tables
 - Functions (SUM, AVERAGE, IF)
 - Data Cleaning
 
-## 📊 What was done
+##  What was done
 - Очистка и подготовка данных
 - Работа с таблицами
 - Построение сводных таблиц
 - Расчет ключевых показателей
 
-## 📈 Analysis
+##  Analysis
 - Анализ продаж
 - Сравнение показателей
 - Выявление трендов
 
-## 💡 Insights
+##  Insights
 - Определены основные показатели эффективности
 - Найдены закономерности в данных
 - Выявлены ключевые факторы влияния
